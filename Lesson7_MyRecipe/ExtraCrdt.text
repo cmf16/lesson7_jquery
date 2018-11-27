@@ -1,0 +1,1 @@
+In myrecipe.js file, I traversed the DOM with the next() and fadeIn() method. I added an event listener to carry out those methods when the user clicks. I edited the CSS using the hover() method to change the color or the h3 background when the mouse was hovered over it. 
